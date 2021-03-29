@@ -1,0 +1,239 @@
+# Site settings
+title: "Vaibhav Kumar"
+email: vaibhavk992@gmail.com
+author: Vaibhav Kumar
+description: "Vaibhav Kumar"
+baseurl: ""
+url: "http://vaibhavk.me"
+date_format: "%b %-d, %Y"
+
+# Google analytics
+google_analytics:
+
+# Optional features
+animated: true
+show_related_posts: false
+show_post_footers: false
+show_social_icons: false
+ajaxify_contact_form: false
+enable_mathjax: true
+extended_fonts: true
+enable_anchorjs: true
+# Preview image for social media aka og:image and twitter:image
+post_preview_image: true
+
+# Tag badge colors
+tag_badge_colors:
+  # Top level
+  book: 'red-base'
+  podcast: 'blue-base'
+  article: 'purple-base'
+  paper: 'green-base'
+  word: 'orange-base'
+  personal-blog: 'yellow-base'
+  course: 'blue-grey-base'
+  technical-blog: 'deep-orange-base'
+  self-written: 'deep-purple-a700'
+
+  # Big category
+  nonfiction: 'light-green-base'
+  fiction: 'light-blue-base'
+  technical: 'deep-orange-base'
+
+  # Subject
+  # Go through all 200 shades then do 800 shades
+  advice: 'brown-200'
+  architecture: 'yellow-200'
+  betting: 'red-100'
+  body: 'grey-200'
+  business: 'teal-200'
+  career: 'red-200'
+  devops: 'blue-200'
+  dogs: 'amber-200'
+  funny: 'deep-orange-200'
+  historical-fiction: 'blue-grey-200'
+  life: 'indigo-200'
+  memoir: 'orange-200'
+  ml: 'light-green-200'
+  news: 'green-200'
+  ppl: 'deep-purple-200'
+  practices: 'pink-200'
+  programming: 'lime-200'
+  role-model: 'cyan-200'
+  startups: 'light-blue-200'
+  tools: 'purple-200'
+  random: 'blue-grey-100'
+  money: 'red-100'
+  life-event: 'pink-100'
+  math: 'purple-100'
+  cs: 'deep-orange-100'
+  sports: 'orange-100'
+  writing: 'deep-purple-100'
+  dyslexia: 'red-800'
+  comedy: 'pink-800'
+  property-management: 'purple-800'
+  music: 'deep-purple-800'
+  management: 'indigo-800'
+  story: 'blue-800'
+  memory: 'light-blue-800'
+  fantasy: 'cyan-800'
+
+  # Specific provider
+  # Do all the a100s
+  masters-of-scale: 'red-a100'
+  the-minimalists: 'orange-a100'
+  joe-rogan: 'pink-a100'
+  you-are-not-so-smart: 'deep-orange-a100'
+  data-skeptic: 'yellow-a100'
+  side-hustle-school: 'green-a100'
+  how-i-built-this: 'amber-a100'
+  the-forbes-interview: 'blue-a100'
+  the-art-of-manliness: 'light-green-a100'
+  freakonomics-radio: 'deep-purple-a100'
+  twiml-ai: 'indigo-a100'
+  a16z: 'lime-a100'
+  the-jordan-harbinger-show: 'purple-a100'
+  the-pitch: 'teal-a100'
+  stuff-you-should-know: 'cyan-a100'
+  99-percent-invisible: 'deep-orange-a200'
+  the-upgrade: 'light-blue-a200'
+  medium: 'orange-a200'
+  paper-club: 'cyan-a200'
+  bradfield: 'amber-a200'
+  invest-like-the-best: 'yellow-a200'
+  revisionist-history: 'light-blue-a100'
+  h3h3: 'lime-a200'
+  hidden-brain: 'light-green-a200'
+  radiolab: 'green-a200'
+  dissect: 'teal-a200'
+  full-stack-radio: 'cyan-a200'
+  ycombinator-podcast: 'light-blue-a200'
+  80000-hours: 'blue-a200'
+  ted-interview: 'indigo-a200'
+  without-fail: 'deep-purple-a200'
+  ezra-klein-show: 'purple-a200'
+  ml-guide: 'pink-a200'
+
+# Facebook Page integration
+# (for instant articles and other stuff)
+fb_page: false
+fb_page_id:
+
+# Disqus post comments
+# (leave blank to disable Disqus)
+disqus_shortname:
+
+# txtpen post comments
+# (leave blank to disable txtpen)
+txtpen_sitename:
+
+# Facebook Comments plugin
+# (leave blank to disable Facebook Comments, otherwise set it to true)
+facebook_comments:
+facebook_appid:
+facebook_comments_number: 10
+
+# Social icons
+github_username:
+reddit_username:
+bitbucket_username:
+stackoverflow_id:
+twitter_username:
+skype_username:
+steam_nickname:
+google_plus_id:
+linkedin_username:
+angellist_username:
+medium_id:
+bitcoin_url:
+paypal_url:
+flattr_button:
+telegram_username:
+vk_id:
+
+# Post sharing icons
+show_sharing_icons: false
+# Change to 'true' to enable individual icons
+share_facebook: false
+share_twitter: false
+share_googleplus: false
+share_linkedin: false
+share_digg: false
+share_tumblr: false
+share_reddit: false
+share_stumbleupon: false
+share_hackernews: false
+
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
+  share_buttons:
+    text:         'Share this post!'
+    facebook:     'Share on Facebook'
+    twitter:      'Share on Twitter'
+    googleplus:   'Share on Google+'
+    linkedin:     'Share on LinkedIn'
+    digg:         'Share on Digg'
+    tumblr:       'Share on Tumblr'
+    reddit:       'Share on Reddit'
+    stumbleupon:  'Share on StumbleUpon'
+    hackernews:   'Share on Hacker News'
+  post:
+    updated:        'Updated'
+    minute_read:    'minute read'
+    related_posts:  'Related Posts'
+  index:
+    coming_soon: 'Coming soon...'
+  contact:
+    email:    'Email Address'
+    content:  'What would you like to say?'
+    subject:  'New submission!'
+    submit:   'Say Hello'
+    ajax:
+      sending:  'sending..'
+      sent:     'Message sent!'
+      error:    'Error!'
+  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+  og_locale: 'en_US'
+
+# Search
+algolia:
+  application_id: Q1JJ6NM1UC
+  index_name: tigerthinks
+  search_only_api_key: 5a99d8bb6e9d1a03163a5eb0d67496e0
+  nodes_to_index: p,li,pre,h1,h2,h3,h4,h5,h6,blockquote
+
+# Build settings
+plugins:
+  - jemoji
+  - jekyll-sitemap
+  - jekyll-paginate-v2
+markdown:     kramdown
+redcarpet:
+  extensions: ['smart', 'tables', 'with_toc_data']
+permalink:    pretty
+pagination:
+  enabled: true
+  per_page: 1000
+  permalink: '/page/:num/' # Pages are index.html inside this folder (default)
+  sort_reverse: true
+  limit: 0
+autopages:
+  enabled: true
+
+  # Tag pages, omit to disable
+  tags:
+    layouts:
+      - 'autopage_tags.html'
+    title: 'Tagged with :tag' # :tag is replaced by the tag name
+    permalink: '/:tag'
+sass:
+  style: compressed
+# https://github.com/jekyll/jekyll/issues/2938
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - bin
+  - data
