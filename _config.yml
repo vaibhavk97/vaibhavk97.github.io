@@ -1,6 +1,6 @@
 # Site settings
 title: "Vaibhav Kumar"
-email: vaibhavk992@gmail.com
+email: vaibhavk992<remove_this>@gmail.com
 author: Vaibhav Kumar
 description: "Vaibhav Kumar"
 baseurl: ""
@@ -14,7 +14,7 @@ google_analytics:
 animated: true
 show_related_posts: false
 show_post_footers: false
-show_social_icons: false
+show_social_icons: true
 ajaxify_contact_form: false
 enable_mathjax: true
 extended_fonts: true
@@ -134,15 +134,15 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
-reddit_username:
-bitbucket_username:
+github_username: 'vaibhavk97'
+reddit_username: 
+bitbucket_username: 
 stackoverflow_id:
-twitter_username:
+twitter_username: 'vaibhavk97'
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username: 'vaibhavkumar97'
 angellist_username:
 medium_id:
 bitcoin_url:
@@ -199,9 +199,9 @@ text:
 
 # Search
 algolia:
-  application_id: Q1JJ6NM1UC
+  application_id: OAEO9UAVRM
   index_name: tigerthinks
-  search_only_api_key: 5a99d8bb6e9d1a03163a5eb0d67496e0
+  search_only_api_key: b60d53e3823f8747304f63e2ac6710c8
   nodes_to_index: p,li,pre,h1,h2,h3,h4,h5,h6,blockquote
 
 # Build settings
