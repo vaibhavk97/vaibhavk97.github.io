@@ -10,12 +10,6 @@ pagination:
 {% assign posts_count = paginator.posts | size %}
 
 <div class="home">
-  <h2 class="page-heading">
-    Posts about my life
-  </h2>
-
-  <hr align="left" style="width: 50%;" />
-
   {% if posts_count > 0 %}
     <div class="posts">
       {% for post in paginator.posts %}
