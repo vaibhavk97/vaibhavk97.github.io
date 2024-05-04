@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: blog_post
 title: 'Prompt Engineering'
 date: 2023-12-06 10:00
@@ -210,4 +210,4 @@ Wait, that’s not the right one. Here:
 
 Cheers.
 
-*Thanks Aline, Sam, Isabelle, Jerry, Randall, and Pops for reading drafts.*
+*Thanks Aline, Sam, Isabelle, Jerry, Randall, and Pops for reading drafts.* -->
