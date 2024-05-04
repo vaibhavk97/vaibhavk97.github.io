@@ -34,7 +34,7 @@ tag_badge_colors:
   course: 'blue-grey-base'
   technical-blog: 'deep-orange-base'
   self-written: 'deep-purple-a700'
-
+  artificial-intelligence: 'light-green-base'
   # Big category
   nonfiction: 'light-green-base'
   fiction: 'light-blue-base'
@@ -172,12 +172,8 @@ text:
     text:         'Share this post!'
     facebook:     'Share on Facebook'
     twitter:      'Share on Twitter'
-    googleplus:   'Share on Google+'
     linkedin:     'Share on LinkedIn'
-    digg:         'Share on Digg'
-    tumblr:       'Share on Tumblr'
     reddit:       'Share on Reddit'
-    stumbleupon:  'Share on StumbleUpon'
     hackernews:   'Share on Hacker News'
   post:
     updated:        'Updated'
